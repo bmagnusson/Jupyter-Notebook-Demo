@@ -15,6 +15,6 @@ Here are the minimum steps required to get this Jupyter Notebook running from sc
        * `cd /Users/bmagnusson/Jupyter-Notebook-Demo`
        * `jupyter notebook`
  1. This (should) open up the Jupyter directory browser at [http://localhost:8888/tree](http://localhost:8888/tree#) in your default web browser (let me know if it doesn't!).
- 1. Click **Jupyter Notebook Demo.ipynb**
+ 1. Click **Jupyter Notebook Intro.ipynb**
  1. [Congrats](https://i.imgflip.com/sd946.jpg) you're ready to roll. Happy notebooking! 
   
