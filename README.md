@@ -18,8 +18,8 @@ Here are the minimum steps required to get this Jupyter Notebook running from sc
      * For me: 
        * `cd /Users/bmagnusson/Jupyter-Notebook-Demo`
        * `jupyter notebook`
- 1. This (should) open up the Jupyter directory browser at [http://localhost:8888/tree] in your default web browser.
- 1. Navigate to [http://localhost:8888/nbextensions/]
+ 1. This (should) open up the Jupyter directory browser at [http://localhost:8888/tree](http://localhost:8888/tree) in your default web browser.
+ 1. Navigate to [http://localhost:8888/nbextensions/](http://localhost:8888/nbextensions/)
  1. Under Configurable extensions click the check box for **Nbextensions dashboard tab**
  1. Go back to the tree directory by clicking the **Files** tab
  1. Click **Jupyter Notebook Intro.ipynb**
